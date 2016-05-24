@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import time as time
 # from matplotlib.pyplot import plot, ion, show
